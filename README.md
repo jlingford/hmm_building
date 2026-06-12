@@ -225,4 +225,6 @@ fefe.subseqs.Gene3D_3-40-50-1780.minseqlen100.faa  FASTA   Protein   104,406  28
 nife.subseqs.Gene3D_1-10-645-10.minseqlen200.faa   FASTA   Protein   107,850  49,053,374      200    454.8      719
 ```
 
+## 4. Clustering
 
+Can either use mmseqs cluster or cd-hit.
